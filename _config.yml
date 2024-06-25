@@ -1,49 +1,41 @@
-
 # html lang
-language: zh-CN
+language: en
 
 # main menu navigation
 menu:
-  Home: /
-  Archives: /archives
-  About: /about
+  About: https://www.thosynpax.com/
+  Billion-Bytes: https://thosynpax.com/bytes
+  Meeting: https://calendar.app.google/i8s7Mao11AY28HVH6
 
 # Social
 social:
-  email: 1178752402@qq.com
-  stack-overflow:
-  twitter:
-  facebook:
-  linkedin:
-  google:
-  github: https://github.com/CaiChenghan
-  weibo:
-  douban:
-  zhihu:
-  jianshu: https://www.jianshu.com/u/565c8e790605
-  pocket:
-  tumblr:
-  instagram:
+  email: me@thosynpax.com
+  twitter: https://twitter.com/thosynpax
+  linkedin: https://www.linkedin.com/in/thosyn-pax/
+  github: https://github.com/ThosynPax
+  instagram: https://instagram.com/thosynpax
 
 # Miscelaneous
 favicon: /favicon.ico
 
 # stylesheets loaded in the <head>
 stylesheets:
-- /css/iLiKE.css
+  - /css/iLiKE.css
+
+logo:
+  - /images/logo.png
 
 # scripts loaded in the end of the body
 scripts:
-- /js/iLiKE.js
+  - /js/iLiKE.js
 
 # Site creation time
-since: 2017
+since: 2024
 
 # Blog auto_excerpt
 auto_excerpt:
   enable: true
   length: 150
-
 
 # ===========================================
 # Third Party Services Settings
