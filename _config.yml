@@ -4,8 +4,8 @@ language: en
 # main menu navigation
 menu:
   About: https://www.thosynpax.com/
-  Billion-Bytes: https://thosynpax.com/bytes
-  Meeting: https://calendar.app.google/i8s7Mao11AY28HVH6
+#  Billion-Bytes: https://thosynpax.com/bytes
+#  Meeting: https://calendar.app.google/i8s7Mao11AY28HVH6
 
 # Social
 social:
